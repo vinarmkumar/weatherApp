@@ -1,5 +1,6 @@
 const apiKey = "a4135a1fe9a34c279f193250250807";
-const apiUrl = "http://api.weatherapi.com/v1/forecast.json";
+const apiUrl = "https://api.weatherapi.com/v1/forecast.json";
+
 
 document.addEventListener("DOMContentLoaded", () => {
   const searchInput = document.getElementById("search-input");
